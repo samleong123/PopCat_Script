@@ -6,19 +6,16 @@ This script is just sending 800 requests per 30 seconds to PopCat server. This i
 
 ## Requirement
 You must have CURL and WGET installed!
-OS : Windows/Linux/macOS/Android
+OS : Linux (The other OS will prompt Cloudflare CAPTCHA , if you have solution to solve this please create a issue)
 
 ## How to use
-Linux :
+### Linux :
 1. Copy the command below and hit enter 
 ``` sudo wget -O PopCat_Script.sh https://raw.githubusercontent.com/samleong123/PopCat_Script/main/PopCat_Script.sh && sudo chmod a+X PopCat_Script.sh && clear && sudo bash PopCat_Script.sh ```
 2. If everything is ok , you should see this 
 ![image](https://user-images.githubusercontent.com/58818070/129857118-b75c4806-7465-4b27-a6e1-c6fae7aacb21.png)
 If returning CF blablabla means got blocked by Cloudflare Firewall
 ![Screenshot 2021-08-18 at 15 58 35](https://user-images.githubusercontent.com/58818070/129860697-8325e370-2f57-4fee-9aec-f0ed4d06d831.png)
-
-Android : 
-``` wget -O PopCat_Script.sh https://raw.githubusercontent.com/samleong123/PopCat_Script/main/PopCat_Script.sh && chmod a+X PopCat_Script.sh && clear &&  bash PopCat_Script.sh ```
 
 ## How to quit
 Linux : 
