@@ -17,6 +17,8 @@ Linux :
 If returning CF blablabla means got blocked by Cloudflare Firewall
 ![Screenshot 2021-08-18 at 15 58 35](https://user-images.githubusercontent.com/58818070/129860697-8325e370-2f57-4fee-9aec-f0ed4d06d831.png)
 
+Android : 
+``` wget -O PopCat_Script.sh https://raw.githubusercontent.com/samleong123/PopCat_Script/main/PopCat_Script.sh && chmod a+X PopCat_Script.sh && clear &&  bash PopCat_Script.sh ```
 
 ## How to quit
 Linux : 
